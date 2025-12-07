@@ -1,0 +1,5 @@
+# Brief Introduction About Myself
+
+Hello, my name is Osama Mohamed. I am currently studying Linux and Git version control as part of my course. I enjoy learning programming and exploring new technologies.
+
+I am eager to improve my skills and collaborate on projects using GitHub. This is my first step towards contributing to software projects and tracking my work efficiently.
